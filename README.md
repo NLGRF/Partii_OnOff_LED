@@ -1,6 +1,9 @@
 # Partii_OnOff_LED
 ตัวอย่างแอพสั่งเปิดปิด LED อย่างง่ายเชื่อมต่อกับ NETPIE
 
+![alt text](b1.jpg) <br>
+![alt text](b2.jpg) <br>
+
 ค่าที่นักพัฒนาจำเป็นต้องตั้งค่าให้ถูกต้องจาก NETPIE สำหรับแอพ android คือ <br>
 private String appid = ""; //APP_ID <br>
 private String key = ""; //KEY <br>
