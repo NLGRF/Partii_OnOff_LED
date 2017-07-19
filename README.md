@@ -3,6 +3,7 @@
 
 ![alt text](b1.jpg) <br>
 ![alt text](b2.jpg) <br>
+![alt text](b3.png) <br>
 
 ค่าที่นักพัฒนาจำเป็นต้องตั้งค่าให้ถูกต้องจาก NETPIE สำหรับแอพ android คือ <br>
 private String appid = ""; //APP_ID <br>
