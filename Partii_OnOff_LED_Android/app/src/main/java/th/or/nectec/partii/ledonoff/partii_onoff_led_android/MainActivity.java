@@ -17,7 +17,9 @@ import android.widget.TextView;
 
 import io.netpie.microgear.Microgear;
 import io.netpie.microgear.MicrogearEventListener;
-import th.or.nectec.partii.embed.android.EmbeddedUtils.ModelUtil;
+
+
+import th.or.nectec.partii.embedded.android.EmbeddedUtils.ModelUtil;
 import th.or.nectec.partii.embedded.android.RecognitionListener;
 import th.or.nectec.partii.embedded.android.SpeechRecognizer;
 
